@@ -1,6 +1,6 @@
 # 데이터 분석 — Palmer Penguins / Data Analysis with Palmer Penguins
 
-> **English summary.** Coursework notebooks practicing the pandas data-analysis workflow on the Palmer Penguins dataset — from Series/DataFrame basics, indexing, filtering and groupby, to exploratory data analysis and visualization (numeric vs. categorical relationships, binning with `cut`/`qcut`, statistical plots). Practice materials from the NVIDIA AI Academy Seoul program.
+> **English summary.** Coursework notebooks practicing the pandas data-analysis workflow on the Palmer Penguins dataset — from Series/DataFrame basics, indexing, filtering and groupby, to exploratory data analysis and visualization (numeric vs. categorical relationships, binning with `cut`/`qcut`, statistical plots).
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
