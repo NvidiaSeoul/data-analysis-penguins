@@ -23,6 +23,17 @@
 
 - **Palmer Penguins** ([data/penguins.csv](data/penguins.csv)) — 남극 3종 펭귄(Adelie·Chinstrap·Gentoo)의 부리 길이·깊이, 지느러미 길이, 체중, 서식 섬 등
 
+## 결과 시각화
+
+EDA 노트북의 실제 출력 그래프입니다.
+
+| | |
+|:---:|:---:|
+| ![](results/fig_01.png) | ![](results/fig_02.png) |
+| ![](results/fig_03.png) | ![](results/fig_04.png) |
+
+종별 분포(KDE·pairplot), 특성 간 상관관계, 길이–체중 회귀 추세를 시각화했습니다.
+
 ## 실행 방법
 
 ```bash
